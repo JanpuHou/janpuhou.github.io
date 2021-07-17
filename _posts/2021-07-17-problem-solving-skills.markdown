@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "DEVELOPING PROBLEM SOLVING PROCESSES"
+title:  "Developing Problem Solving Process"
 date:   2021-07-17 3:08:27 -0700
 categories: jekyll update
 ---
