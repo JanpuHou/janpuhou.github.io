@@ -1,18 +1,24 @@
 ---
 layout: post
-title:  "Problem Solving Process"
+title:  "DEVELOPING PROBLEM SOLVING PROCESSES"
 date:   2021-07-17 3:08:27 -0700
 categories: jekyll update
 ---
-![Alt Text](/assets/img/dm.png)
+![Alt Text](/assets/img/problem_solving.jpg)
 
-Digital marketing, also called online marketing, is not only the promotion of brands to connect with potential customers using the internet and other forms of digital communication, but also achieve short term convertions to generate money.
+Problem solving is a process that uses steps to solve problems. Formulation the problem is really half the solution, the other half is what machine learning model can help. It is important to train yourself of how to formulate the right problem statement.
+It is expected that we have 29.3 billion networked devices by 2023. Today, 1.85 million different apps are available for users to download. Android users have even more from which to choose, with 2.56 million available through the Google Play Store. These apps have come to play a huge role in the way we live our lives today.
+Our world is full of innovative, forward-thinking, and savvy app developers. Every day, app creatives and programmers are out there not only solving problems with mobile apps and platforms but also identifying and anticipating problems that can be easily dealt with via an app at some point in the future. To train the problem solving skills is one of the major objectives for all the app developer interns.
 
-The goal are (1) find the right influencers and decisions makers of your target company (2) gernerate prospecting with customer lead lists (3) understand user experience and insights of who use the product. 
+#### Brainstorm by Yourself
 
-When you are a member of digital marketing team, you are going to realize quickly not everyone in the company has the same priorities. When we are new comer we incorrectly assume that we must have numerous priorities and multitask to get ahead in business, even though working in this way can deeply affect (and hurt) our productivity. My advice is work on the top priority: make money for the company, not make friend for yourself. 
+Grappling is everything an intern might do when faced with a problem that does not have a clear solution. Grappling is more than that – it includes critical thinking, asking questions, observing evidence, asking more questions, forming hypotheses, and constructing a deep understanding of an issue.
 
-When we dig down to the root cause of whatever issue fail a digital marketing team, for example burnout or underperformance, pretty much every time the answer comes up as too many priorities. And the person coming up with new priorities on top of the many plates someone is already spinning? Their boss. It is not uncommon that the developer wants more salary, less work and walking distance to office. But the bosses want the customer to be so happy that they will pay a lot of money for our product, and will tell you the want every features into the product and EVERYTHING IS A PRIORITY.
+#### Three before Me
+Practice “3 Before Me”. This means intern need to ask 3 other interns their question before asking the supervisor. By doing this, all the interns practice open source 21st century skills like collaboration and communication, and can usually find the info they’re looking for on the way.
 
-If we can not make everyone happy, just focus on top priority: Increase Sales and/or Revenue. ...Increase Profit. The purpose of our digital marketing team in to bridge the gap between the customers and our product. More importly, retain more paid customers. 
+#### Process over Product
+For elementary interns, reflecting on the process of solving a problem helps them develop a growth mindset. Getting a solution “wrong” doesn’t mean to be a bad thing! Failure does build characteristics for us. Even the solution may not be the optimal one, the process stand and can be modified to do better next time. 
 
+#### Model Your Own Strategies
+As creative problem-solving skills for everyone are being learned, there will likely be moments where we are frustrated or unsure. Here are some easy ways to practice: Ask clarifying questions if you don’t understand something. Admit when don’t know the correct answer. Talk through multiple possible outcomes for different situation. Verbalize how you’re feeling when you find a problem.
