@@ -8,7 +8,7 @@ categories: jekyll update
 
 #### What is Cloud Service Provider?
 
-![Alt Text](/assets/img/csp_ms.jpg)
+![Alt Text](/assets/img/CSP_ms.jpg)
 
 Artificial Intelligence applications in the telecommunications industry are increasingly helping Cloud Solution Provider (CSP) manage, optimize and maintain not only infrastructure, but also customer support operations. The Microsoft Cloud Solution Provider Program enables partners to directly manage their entire Microsoft cloud customer lifecycle. Partners in this program utilize dedicated in-product tools to directly provision, manage, and support their customer subscriptions.
 
