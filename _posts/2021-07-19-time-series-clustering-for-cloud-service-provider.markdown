@@ -14,7 +14,7 @@ Artificial Intelligence applications in the telecommunications industry are incr
 
 #### What is Time Series Clustering?
 
-![Alt Text](/assets/img/similar.jpg)What is Time Series Clustering?
+![Alt Text](/assets/img/similar.jpg)
 
 Time series are a common data type and they are widely used in diverse application areas, such as finance, economics, communication, automatic control, and online services, etc. Clustering time series is to identify the homogeneous groups of time series data based on their similarity. Fast and scalable clustering of time series is essential to completing these tasks since grouping provides common performance profiles across servers or services. Moreover, clustering transforms time series data into categorical attributes, thus making it possible to analyze time series data together with other categorical attributes.
 
