@@ -4,7 +4,7 @@ title:  "What to do with the data my boss gave me?"
 date:   2021-07-27 3:08:27 -0700
 categories: jekyll update
 ---
-![Alt Text](/assets/img/associate.png)
+![Alt Text](/assets/img/association.jpg)
 
 A classification model is using data’s similarities to map data into a specific labelled class.  A clustering model involves grouping data with respect to their similarities. Clustering algorithms are mainly linear and nonlinear while classification consists of more algorithmic tools such as linear classifiers, neural networks, Kernel estimation, decision trees, XGBoost, and support vector machines.
 A regression model is obtained from finding the association between the input x and output data y. A association rule is finding the association between individual items x in respect to the customers y. Estimated regression equation, in statistics, an equation constructed to model the relationship between dependent and independent variables. An association rule has two parts: an antecedent (if) and a consequent (then). An antecedent is an item found within the data. A consequent is an item found in combination with the antecedent.
