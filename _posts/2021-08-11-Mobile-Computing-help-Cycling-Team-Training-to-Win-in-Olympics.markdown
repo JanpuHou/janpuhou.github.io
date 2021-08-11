@@ -16,7 +16,7 @@ Wearables may be for general use, in which case they are just a particularly sma
 
 Many professional cyclists use bike computers to track metrics such as how many watts of power they are exerting and the cadence of their pedal stroke. Many cyclists also use heart rate monitors strapped around their chests or wrists, and are eyeing some of the newer, more in-depth wearables, such as lactate threshold monitors. The data helps the athletes gain insights on the training and maximize their energy expenditure.
 
-### The Solution: 
+### The Solution: Smart Glass
 
 The technology works similarly to that of the no-longer-for-sale Google Glass. A phone app integrates the data from the various devices and sends it wirelessly to the electronics integrated in the frame of the shades. A very small optics module in front of one side of the sunglasses contains the micro-display that presents the data on a virtual screen in the rider’s field of view. 
 An audio feed of the data reaches the rider through an ear piece. Biomechanics expert Ernesto Martinez was hired to create the smart glasses, which backend technology created by IBM to process and display the training data. 
