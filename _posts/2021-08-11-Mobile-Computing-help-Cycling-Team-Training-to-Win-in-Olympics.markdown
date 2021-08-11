@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mobile Computing help Cycling Team Training to Win in Olympics"
+title:  "Mobile Computing help Cycling Team Training to Win Olympics Medal"
 date:   2021-08-11 3:08:27 -0700
 categories: jekyll update
 ---
