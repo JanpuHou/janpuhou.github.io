@@ -1,0 +1,33 @@
+---
+layout: post
+title:  "In Memory of 911"
+date:   2021-09-11 3:08:27 -0700
+categories: jekyll update
+---
+![Alt Text](/assets/img/mrv1.jpg)
+
+### In memory of Edmund Glazer of MRV Communications
+
+In Memory of Edmund Glazer, 9/11 Terror Victim, Passenger On American Airlines Flight 11
+Our friend Glazer CFO of MRV was killed when American Airlines Flight 11, Boston to Los Angeles, crashed into World Trade Center Tuesday, Sept. 11, 2001 in New York.
+
+We worked with Edmund during merger and acquisition of FOCI fiber optic communication Inc. by MRV communications. 
+
+On April 24, 2000, MRV acquired approximately 97% of the outstanding capital stock of FOCI, a Taiwanese manufacturer of passive fiber optic components with facilities in both Taiwan and the People's Republic of China. The purchase price paid was approximately $310.4 million in cash, common stock and options to purchase common stock of MRV. The acquisition was accounted for using the purchase method. The outstanding capital stock of FOCI purchased by MRV has been contributed to us as of the date of acquisition. Therefore, the results of operations of FOCI have been included in our consolidated financial statements from April 25, 2000.
+
+MRV Communications, Inc. (Nasdaq: MRVC) announced the death of Edmund Glazer on September 12, 2001, chief financial officer and vice president of finance and administration of the Company. American Airlines confirmed that he was on board the Boston to Los Angeles flight #11 that crashed into the New York World Trade Center September 11. Edmund was 41 years old and is survived by his wife and son.
+
+MRV Communications Inc., a maker of telecommunications equipment based in Chatsworth, California, said in Feburary 2000, that it would buy Fiber Optic Communications Inc. of Taiwan for $263 million in stock and cash. Fiber Optic Communications makes passive fiber optic components, including couplers and isolators. With the acquisition, MRV said it would become one of the world's largest makers of advanced optical components and modules.
+
+[MRV acquire FOCI in Feburary 2000](https://www.nytimes.com/2000/02/23/business/company-news-mrv-in-deal-to-purchase-fiber-optic-communications.html)
+
+### Luminent Formation and IPO
+
+![Alt Text](/assets/img/mrv2.jpg)
+
+Our technical capabilities span several key areas. We believe our technical depth can enable rapid development and deployment of new singlemode fiber optic components and subsystems. The development and manufacturing of superior singlemode fiber optic components requires expertise in the following technology areas: Device fabrication. Active components are the necessary element for every optical communication link. We operate two device fabrication facilities for the production of active components. Device fabrication is an extremely complex procedure that requires the use of multiple advanced processes. The key technology for optimized laser performance is the growth of single crystalline material, which we perform with metal organic chemical vapor deposition, or MOCVD. MOCVD is the most advanced growth technology available and is capable of achieving atomic level thickness control and exact composition control allowing for the highest level of device performance. Our control of these difficult processes enables us to manufacture lasers that operate effectively at extremely high temperatures and lasers for WDM systems. At June 30, 2000, we had 60 employees engaged in research and development, including 38 engineers with advanced degrees, 13 of whom are PhDs.
+
+[MRV integrated FOCI into Luminent](https://secfilings.nasdaq.com/filingFrameset.asp?FilingID=1242979&View=html)
+
+[Luminent IPO in Novenber 2000](https://www.nasdaq.com/market-activity/ipos/overview?dealId=77811-5460)
+
