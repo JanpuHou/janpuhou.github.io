@@ -4,7 +4,7 @@ title:  "HyperConverged Infrastructure(HCI) Software"
 date:   2021-09-28 3:08:27 -0700
 categories: jekyll update
 ---
-![Alt Text](/assets/img/HCIO.jpg)
+![Alt Text](/assets/img/HCI0.jpg)
 
 Small and midsize enterprises increasingly utilize public cloud services such as Amazon Web Services (AWS), Microsoft Azure, and Google Cloud for deploying IT applications to run their business. Hyperconverged infrastructure (HCI) is underpinned by many of the same distributed systems technologies as public clouds, enabling IT organizations to build private clouds that bring benefits of cloud computing into organizations’ datacenters. The reasons organizations make the switch by moving from complex legacy infrastructure to the simplicity of hyperconvergence are lower costs, improved, consistent performance, a smaller datacenter footprint, greater efficiency and productivity in IT teams, and maximized infrastructure ROI.
 
